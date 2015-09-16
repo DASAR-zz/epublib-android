@@ -16,4 +16,4 @@ compile 'nl.siegmann.epublib:epub-core:1.0@aar'
 
 ## License
 
-GNU General Public License v3.0
+GNU Lesser General Public License v3.0
